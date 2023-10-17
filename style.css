@@ -1,5 +1,5 @@
 body{background-color: rgb(0, 0, 0);}
-h1{font-size: 60px;
+h1{font-size: 150px;
 color: rgb(253, 222, 46); 
 text-align: center;}
 p{font-size: 20px;
@@ -34,7 +34,7 @@ ul{
 }
 .lista_cabecalho{
     display: flex;
-    margin-top: 150px;
+    margin-top: 155px;
 }
 .item_lista_cabecalho{
     color: rgb(253, 252, 252);
@@ -44,7 +44,7 @@ ul{
     padding: 20px;
 }
 .cabecalho{
-    background-color: black;
+    background-color: rgb(236, 193, 0);
     display: flex;
 }
 .lista_cabecalho{
