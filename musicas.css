@@ -1,0 +1,22 @@
+h1{font-size: 100px;
+    color: rgb(253, 222, 46); 
+    text-align: center;}
+    
+h2 {font-size: 55px;
+    color: rgb(252, 252, 252); 
+    text-align: center;}
+
+p {font-size: 30px;
+    color: rgb(252, 252, 252); 
+    text-align: center}
+
+li {font-size: 25px;
+    color: rgb(199, 184, 116); 
+    text-align: center left;}  
+
+.album {
+    width: 350px !important;
+    height: 350px !important;
+    margin-left: 10%;
+    border: 5px solid rgb(253, 233, 55);
+}
