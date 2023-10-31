@@ -23,7 +23,8 @@ ul{
     border: 3px solid rgb(255, 192, 18);
 }
 .cabecalho{
-    background-color: #ebcb16;
+    background-color: #0c0c0c;
+    text-align: center;
 }
 .logobarbearia{
     width: 150px !important;
